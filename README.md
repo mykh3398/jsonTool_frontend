@@ -1,26 +1,4 @@
-# client
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# trpz_frontend" 
-"# jsonTool_frontend" 
+# jsonTool_frontend
+### This repository is a forntend part of the Json Tool Formatter App designed as part of the coursework for the subject Software Development Technologies(ТРПЗ). 
+## Group: IA-24
+## Contributor: Kokhanchuk Mykhailo
